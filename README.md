@@ -1,6 +1,6 @@
 # MSP Virtual Call December 2019
 
-![I'll put an image here :D - Salman](README_Images/inspirecast.PNG)
+![I'll put an image here :D - Salman](README_Images/inspirecast.png)
 
 A call led by MSP Inspire, our initiative is to grow and expand the awareness of the MSP program. We are aiming to encorporate as many MSPs to talk as possible, as well as industry experts, MVPs, and reseachers. Right now we are in the planning stages, so if you would like to get involved drop an email: 13schishti@gmail.com
 
