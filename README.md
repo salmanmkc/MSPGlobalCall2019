@@ -1,4 +1,6 @@
 # MSP Virtual Call December 2019
+>**Note**: Not to be confused with the 2020 call in February
+
 
 ![I'll put an image here :D - Salman](README_Images/inspirecast.png)
 
@@ -11,7 +13,6 @@ A call led by MSP Inspire, our initiative is to grow and expand the awareness of
 - **Exposure to other fields:** Universities will cover certain aspects within a subject, however not all aspects or modules are shown. This would be a good way to give viewers an introduction into many fields.
 - **Less pressure:** We know that universities will have deadlines and shape their courses around exams, but having the chance to show people things that you yourself are passionate about comes much easier, and with less pressure.
 
->**Note**: The date is not finalised yet, however we are planning towards February at the moment.
 
 
 
