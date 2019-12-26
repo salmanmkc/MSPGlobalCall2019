@@ -1,6 +1,6 @@
 
 
-# MSP Virtual Call December 2019
+# MSP Virtual Call December 28th and 29th 2019
 > Applications are currently closed for talks, create an issue/contact me on [Twitter @SalmanMKC](https://twitter.com/salmanmkc "salmanmkc on twitter") if you're not an MSP or contact me on Teams (Salman Chishti)
 >**Note**: Not to be confused with the 2020 call in February
 
