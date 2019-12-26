@@ -15,36 +15,15 @@
 | C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
 | Introduction to cyber security | Makhija |14:20|19:50||
 | Theory of Machine Learning | Vedant Bahel |13:40|19:10||
-| C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
-|VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |Collboration with Live Share|Ganesh Tiwawi|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
 |Image Classification and Object Detection using Microsoft Azure|Sundereshwar|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
 |Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
-|Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|
-Damilola
+|Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
+|Introduction to power platform|Damilola|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
+|Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|
+|Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|
 
-19:05
-
-0:35
-
-Introduction to power platform
-
-Mohamed
-
-19:45
-
-1:15
-
-Power Automate: Getting started
-
-Eric
-
-20:25
-
-1:55
-
-Deploying a virtual machine on Microsoft Azure
 
 A call led by MSP Inspire, our initiative is to grow and expand the awareness of the MSP program. We are aiming to encorporate as many MSPs to talk as possible, as well as industry experts, MVPs, and reseachers. Right now we are in the planning stages, so if you would like to get involved drop an email: 13schishti@gmail.com
 
