@@ -1,3 +1,4 @@
+
 # MSP Virtual Call December 2019
 > Applications are currently closed for talks, create an issue/contact me on [Twitter @SalmanMKC](https://twitter.com/salmanmkc "salmanmkc on twitter") if you're not an MSP or contact me on Teams (Salman Chishti)
 >**Note**: Not to be confused with the 2020 call in February
@@ -6,7 +7,7 @@
 ![I'll put an image here :D - Salman](README_Images/inspirecast.png)
 
 ## Schedule for the 28th
-|Talk Name|Speaker|GMT|IST|Links|
+|Talk Name|Speaker(s)|GMT|IST|Links|
 |--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
 | MSP Program and Imagine Cup | Salman Chishti and Sabiha Shaik |11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
@@ -23,6 +24,26 @@
 |Introduction to power platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|
 |Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|
+
+## Schedule for the 29th
+|Talk Name|Speaker(s)|GMT|IST|Links|
+|--|--|--|--|--|
+| Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
+| Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||
+| Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
+|How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||
+| C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
+| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50||
+| What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
+|Asp.net MVC|Dhruv Kinger|15:40|21:10||
+|-|Victoria|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
+|Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|16:50|22:20|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
+|Getting into Research|Vedant Bahel|17:50|23:20|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
+|Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
+|Building Chatbots for Enterprise Solution|Olumide Ogundare|19:10|0:40|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|
+|Deploying a web app on Azure App Service|Shreya Prasad|19:40|1:10|[Azure App Service](https://azure.microsoft.com/en-gb/services/app-service/)|
+|Hacking Web Literacy|Ekansh Gupta|20:20|1:50||
+|A guide to a successful path in Software Development|Salman Chishti and Sabiha Shaik|21:00|2:30||
 
 
 A call led by MSP Inspire, our initiative is to grow and expand the awareness of the MSP program. We are aiming to encorporate as many MSPs to talk as possible, as well as industry experts, MVPs, and reseachers. Right now we are in the planning stages, so if you would like to get involved drop an email: 13schishti@gmail.com
