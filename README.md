@@ -61,12 +61,9 @@ A call led by MSP Inspire, our initiative is to grow and expand the awareness of
 
 
 
-
-## Links
-
-[Microsoft Student Partners]([https://studentpartners.microsoft.com](https://studentpartners.microsoft.com/)
+## Videos
 [![UCL Data Science Hackathon w/ Microsoft and Amex](https://img.youtube.com/vi/9lvn1BWlpGg/0.jpg)](https://www.youtube.com/watch?v=9lvn1BWlpGg)
-[Imagine Cup 2020 Trailer](https://www.youtube.com/watch?v=Z7mQ0KIVvhY&t=1s)
+
 
 
 
