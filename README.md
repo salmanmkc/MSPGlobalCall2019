@@ -37,7 +37,7 @@ Come join our community here: https://msft.it/6019TnSKW
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
 |How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||
 | C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
-| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Computing](https://www.microsoft.com/en-in/quantum/)|
+| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
 |Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|16:20|21:50||
