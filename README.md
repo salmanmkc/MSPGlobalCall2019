@@ -7,7 +7,7 @@
 Stream will take place here: [YouTube Channel](https://www.youtube.com/channel/UCokbgC90PVz7jrAK3FN-uSA)
 
 
-![I'll put an image here :D - Salman](README_Images/inspirecast.png)
+![I'll put an image here :D - Salman](https://pbs.twimg.com/media/EL6qrZcW4AAbzUV?format=jpg&name=4096x4096)
 
 ## Schedule for the 28th
 |Talk Name|Speaker(s)|GMT|IST|Links|
