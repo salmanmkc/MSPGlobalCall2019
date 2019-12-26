@@ -5,6 +5,7 @@
 >**Note**: Not to be confused with the 2020 call in February
 
 Stream will take place here: [YouTube Channel](https://www.youtube.com/channel/UCokbgC90PVz7jrAK3FN-uSA)
+Come join our community here: https://msft.it/6019TnSKW
 
 
 ![I'll put an image here :D - Salman](https://pbs.twimg.com/media/EL6qrZcW4AAbzUV?format=jpg&name=4096x4096)
