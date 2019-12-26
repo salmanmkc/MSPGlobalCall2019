@@ -15,7 +15,7 @@ Come join our community here: https://msft.it/6019TnSKW
 |--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
 | MSP Program and Imagine Cup | Sabiha Shaik and Dawuda Iddrisu |11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
-| Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[VCS](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|
+| Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[Version Control Systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|
 |How to set up your own community and inspire others | CH Hanzaila |13:00|18:30||
 | C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
 | Introduction to cyber security | Simran Makhija |14:20|19:50||
@@ -37,7 +37,7 @@ Come join our community here: https://msft.it/6019TnSKW
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
 |How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||
 | C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
-| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Quantum Computing](https://www.microsoft.com/en-in/quantum/)|
+| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Computing](https://www.microsoft.com/en-in/quantum/)|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
 |Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|16:20|21:50||
