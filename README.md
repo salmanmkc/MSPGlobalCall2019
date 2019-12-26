@@ -24,7 +24,7 @@ Stream will take place here: [YouTube Channel](https://www.youtube.com/channel/U
 |Image Classification and Object Detection using Microsoft Azure|Sundereshwar Kodi|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
 |Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
-|Introduction to power platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
+|Introduction to power platform|Damilola Omiyera and Ayan Keynan|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|
 |Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|
 
