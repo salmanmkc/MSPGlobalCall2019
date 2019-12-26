@@ -77,8 +77,8 @@ A call led by MSP Inspire, our initiative is to grow and expand the awareness of
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/SalmanMKC"><img src="https://avatars3.githubusercontent.com/u/32169182?v=4" width = "100px;" alt="Salman Chishti"/><br/><sub<b>Salman Chishti</b></sub></a><br/>
-    <td align="center"><a href="https://www.linkedin.com/in/dawoodiddris/"><img src="https://pbs.twimg.com/profile_images/1083118269203169280/d8JlI67G_400x400.jpg" width = "100px;" alt="Dawuda"/><br/><sub<b>Dawuda</b></sub></a><br/>
-    <td align="center"><a href="https://www.linkedin.com/in/sabiha-shaik/"><img src="https://i.imgur.com/RTxGZuJ.png" width = "100px;" alt="Sabiha"/><br/><sub<b>Sabiha</b></sub></a><br/>
+    <td align="center"><a href="https://www.linkedin.com/in/dawoodiddris/"><img src="https://pbs.twimg.com/profile_images/1083118269203169280/d8JlI67G_400x400.jpg" width = "100px;" alt="Dawuda"/><br/><sub<b>Dawuda Iddrisu</b></sub></a><br/>
+    <td align="center"><a href="https://www.linkedin.com/in/sabiha-shaik/"><img src="https://i.imgur.com/RTxGZuJ.png" width = "100px;" alt="Sabiha"/><br/><sub<b>Sabiha Shaik</b></sub></a><br/>
   </tr>
 </table>
 
