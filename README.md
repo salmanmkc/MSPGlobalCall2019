@@ -39,7 +39,7 @@ Stream will take place here: [YouTube Channel](https://www.youtube.com/channel/U
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50||
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
-|-|Victoria|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
+|Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|16:20|21:50||
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|16:50|22:20|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
 |Getting into Research|Vedant Bahel|17:50|23:20|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
