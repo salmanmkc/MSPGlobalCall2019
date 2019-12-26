@@ -25,9 +25,7 @@ A call led by MSP Inspire, our initiative is to grow and expand the awareness of
 [Imagine Cup 2020 Trailer]([https://www.youtube.com/watch?v=Z7mQ0KIVvhY&t=1s](https://www.youtube.com/watch?v=Z7mQ0KIVvhY&t=1s))  
 
 
-## Contact
-* e-mail: 13schishti@gmail.com
-* Twitter: [@SalmanMKC](https://twitter.com/salmanmkc "salmanmkc on twitter")
+
 
 
 ## Organisers
@@ -39,4 +37,5 @@ A call led by MSP Inspire, our initiative is to grow and expand the awareness of
     <td align="center"><a href="https://www.linkedin.com/in/sabiha-shaik/"><img src="https://i.imgur.com/RTxGZuJ.png" width = "100px;" alt="Sabiha"/><br/><sub<b>Sabiha</b></sub></a><br/>
   </tr>
 </table>
+
 
