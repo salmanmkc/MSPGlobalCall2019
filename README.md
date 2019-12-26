@@ -18,7 +18,7 @@
 | Theory of Machine Learning | Vedant Bahel |13:40|19:10||
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |Collboration with Live Share|Ganesh Tiwawi|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
-|Image Classification and Object Detection using Microsoft Azure|Sundereshwar|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
+|Image Classification and Object Detection using Microsoft Azure|Sundereshwar Kodi|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
 |Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
 |Introduction to power platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
