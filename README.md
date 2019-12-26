@@ -28,3 +28,15 @@ A call led by MSP Inspire, our initiative is to grow and expand the awareness of
 ## Contact
 * e-mail: 13schishti@gmail.com
 * Twitter: [@SalmanMKC](https://twitter.com/salmanmkc "salmanmkc on twitter")
+
+
+## Organisers
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/SalmanMKC"><img src="https://avatars3.githubusercontent.com/u/32169182?v=4" width = "100px;" alt="SalmanMKC"/><br/><sub<b>SalmanMKC</b></sub></a><br/>
+    <td align="center"><a href="https://www.linkedin.com/in/SalmanMKC"><img src="https://pbs.twimg.com/profile_images/1083118269203169280/d8JlI67G_400x400.jpg" width = "100px;" alt="SalmanMKC"/><br/><sub<b>Dawuda</b></sub></a><br/>
+    <td align="center"><a href="https://www.linkedin.com/in/SalmanMKC"><img src="https://i.imgur.com/RTxGZuJ.png" width = "100px;" alt="SalmanMKC"/><br/><sub<b>Sabiha</b></sub></a><br/>
+  </tr>
+</table>
+
