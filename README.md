@@ -63,7 +63,7 @@ A call led by MSP Inspire, our initiative is to grow and expand the awareness of
 
 ## Videos
 [![UCL Data Science Hackathon w/ Microsoft and Amex](https://img.youtube.com/vi/9lvn1BWlpGg/0.jpg)](https://www.youtube.com/watch?v=9lvn1BWlpGg)
-
+[![How to become a Microsoft Student Partner](https://img.youtube.com/vi/8ZiKViKTTOw/0.jpg)](https://www.youtube.com/watch?v=8ZiKViKTTOw)
 
 
 
