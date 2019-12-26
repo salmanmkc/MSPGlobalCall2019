@@ -13,7 +13,7 @@ Stream will take place here: [YouTube Channel](https://www.youtube.com/channel/U
 |Talk Name|Speaker(s)|GMT|IST|Links|
 |--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
-| MSP Program and Imagine Cup | Salman Chishti and Sabiha Shaik |11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
+| MSP Program and Imagine Cup | Sabiha Shaik and Dawuda Iddrisu |11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
 | Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[VS Code](https://code.visualstudio.com/)|
 |How to set up your own community and inspire others | CH Hanzaila |13:00|18:30||
 | C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
