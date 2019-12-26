@@ -5,6 +5,47 @@
 
 ![I'll put an image here :D - Salman](README_Images/inspirecast.png)
 
+## Schedule for the 28th
+|Talk Name|Speaker|GMT|IST|Links|
+|--|--|--|--|--|
+| Introduction | Salman and Sabiha |11:00|16:30|[Student Partner Program](https://studentpartners.microsoft.com/)|
+| MSP Program and Imagine Cup | Salman and Sabiha |11:40|17:10|[Student Partner Program](https://studentpartners.microsoft.com/)|
+| Visual Studio Code and Open Source | Syed Farhan Ahmad |12:20|17:50|[Visual Studio Code](https://code.visualstudio.com/)|
+|How to set up your own community and inspire others | CH Hanzaila |13:00|18:30||
+| C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
+| Introduction to cyber security | Makhija |14:20|19:50||
+| Theory of Machine Learning | Vedant Bahel |13:40|19:10||
+| C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
+|VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
+|VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
+|Collboration with Live Share|Ganesh Tiwawi|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
+|Image Classification and Object Detection using Microsoft Azure|Sundereshwar|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
+|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
+|Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|
+Damilola
+
+19:05
+
+0:35
+
+Introduction to power platform
+
+Mohamed
+
+19:45
+
+1:15
+
+Power Automate: Getting started
+
+Eric
+
+20:25
+
+1:55
+
+Deploying a virtual machine on Microsoft Azure
+
 A call led by MSP Inspire, our initiative is to grow and expand the awareness of the MSP program. We are aiming to encorporate as many MSPs to talk as possible, as well as industry experts, MVPs, and reseachers. Right now we are in the planning stages, so if you would like to get involved drop an email: 13schishti@gmail.com
 
 ## The aims of this call
