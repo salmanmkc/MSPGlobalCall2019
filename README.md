@@ -8,7 +8,7 @@ Stream will take place here: [YouTube Channel](https://www.youtube.com/channel/U
 Come join our community here: https://msft.it/6019TnSKW
 
 
-![I'll put an image here :D - Salman](https://pbs.twimg.com/media/EL6qrZcW4AAbzUV?format=jpg&name=4096x4096)
+![I'll put an image here :D - Salman](README_Images/updatedpictures.png)
 
 ## Schedule for the 28th
 |Talk Name|Speaker(s)|GMT|IST|Links|
