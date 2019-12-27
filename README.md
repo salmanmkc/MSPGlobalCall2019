@@ -19,11 +19,11 @@ Come join our community here: https://msft.it/6019TnSKW
 |How to set up your own community and inspire others | CH Hanzaila |13:00|18:30|[CH's MSP Group](https://www.facebook.com/MSP.PAK/)|
 | C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
 | Introduction to Power Bi | Ayan Keynan |14:20|19:50|[Power Bi](https://powerbi.microsoft.com/en-us/)|
-| Theory of Machine Learning | Vedant Bahel |15:00:40|20:30||
+| Theory of Machine Learning | Vedant Bahel |15:00|20:30||
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
 |Image Classification and Object Detection using Microsoft Azure|Sundereshwar Kodi|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
-Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade||
+Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
 |Introduction to Power Platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|
