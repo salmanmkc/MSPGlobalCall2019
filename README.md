@@ -40,12 +40,12 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
-|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
+|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|16:20|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|16:50|22:20|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
 |Getting into Research|Vedant Bahel|17:50|23:20|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
 |Building Chatbots for Enterprise Solution|Olumide Ogundare|19:10|0:40|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|
-|Deploying a web app on Azure App Service|Shreya Prasad|19:40|1:10|[Azure App Service](https://azure.microsoft.com/en-gb/services/app-service/)|
+|Deploying a web app on Azure App Service|Shreya Prasad|19:40|1:10|[Azure App Service](https://azure.microsoft.com/en-gb/sebalrvices/app-service/)|
 |Hacking Web Literacy|Ekansh Gupta|20:20|1:50||
 |A guide to a successful path in Software Development|Salman Chishti and Sabiha Shaik|21:00|2:30||
 
