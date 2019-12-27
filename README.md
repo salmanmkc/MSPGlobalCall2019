@@ -23,7 +23,7 @@ Come join our community here: https://msft.it/6019TnSKW
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
 |Image Classification and Object Detection using Microsoft Azure|Sundereshwar Kodi|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
-|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
+Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
 |Introduction to power platform|Damilola Omiyera and Ayan Keynan|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|
@@ -40,7 +40,7 @@ Come join our community here: https://msft.it/6019TnSKW
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
-|Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|16:20|21:50||
+|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|16:20|21:50||
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|16:50|22:20|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
 |Getting into Research|Vedant Bahel|17:50|23:20|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
