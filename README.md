@@ -14,7 +14,7 @@ Come join our community here: https://msft.it/6019TnSKW
 |Talk Name|Speaker(s)|GMT|IST|Links|
 |--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
-| MSP Program and Imagine Cup | Sabiha Shaik and Dawuda Iddrisu |11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
+| How the MSP Program helped me | Yashraj Nayak|11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
 | Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[Version Control Systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|
 |How to set up your own community and inspire others | CH Hanzaila |13:00|18:30||
 | C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
