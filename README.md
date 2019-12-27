@@ -18,14 +18,14 @@ Come join our community here: https://msft.it/6019TnSKW
 | Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[Version Control Systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|
 |How to set up your own community and inspire others | CH Hanzaila |13:00|18:30||
 | C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
-|Introduction to power platform|Damilola Omiyera and Ayan Keynan|19:05|0:35|14:20|19:50||
+|Introduction to power platform|Damilola Omiyera and Ayan Keynan|14:20|19:50|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
 | Theory of Machine Learning | Vedant Bahel |13:40|19:10||
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
 |Image Classification and Object Detection using Microsoft Azure|Sundereshwar Kodi|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
-Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
+Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade||
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
-| Introduction to cyber security | Simran Makhija |19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
+| Introduction to cyber security | Simran Makhija |19:05|0:35||
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|
 |Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|
 
@@ -40,7 +40,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
-|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|16:20|21:50||
+|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|16:50|22:20|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
 |Getting into Research|Vedant Bahel|17:50|23:20|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
