@@ -40,7 +40,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
-|Creating reusable web components with .net (blazor)|Gomolemo Mohapi|17:45|23:15|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
+|Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|16:50|22:20|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
 |Getting into Research|Vedant Bahel|17:50|23:20||
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
