@@ -22,7 +22,7 @@ Come join our community here: https://msft.it/6019TnSKW
 | Theory of Machine Learning | Vedant Bahel |15:00|20:30||
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
-|Image Classification and Object Detection using Microsoft Azure|Sundereshwar Kodi|17:05|22:35|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
+|Questions and Answers|Salman Chishti, Dawuda Iddrisu and Sabiha Shaik|17:05|22:35||
 Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
 |Introduction to Power Platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
