@@ -45,7 +45,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 |Getting into Research|Vedant Bahel|17:50|23:20||
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
 |Building Chatbots for Enterprise Solution|Olumide Ogundare|19:10|0:40|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|
-|Deploying a web app on Azure App Service|Shreya Prasad|19:40|1:10|[Azure App Service](https://azure.microsoft.com/en-gb/sebalrvices/app-service/)|
+|Introduction to Cloud Computing|Shreya Prasad|19:40|1:10|[Microsoft Azure Cloud Computing Platform and Services](https://azure.microsoft.com/en-in/)|
 |Hacking Web Literacy|Ekansh Gupta|20:20|1:50||
 |A guide to a successful path in Software Development|Salman Chishti and Sabiha Shaik|21:00|2:30||
 
