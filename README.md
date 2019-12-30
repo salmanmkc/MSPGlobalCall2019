@@ -4,7 +4,7 @@
 > Applications are currently closed for talks, create an issue/contact me on [Twitter @SalmanMKC](https://twitter.com/salmanmkc "salmanmkc on twitter") if you're not an MSP or contact me on Teams (Salman Chishti)
 >**Note**: Not to be confused with the 2020 call in February
 
-Stream will take place here: [YouTube Channel](https://www.youtube.com/channel/UCokbgC90PVz7jrAK3FN-uSA)
+Stream has concluded and archives are watchable here: [YouTube Channel](https://www.youtube.com/channel/UCokbgC90PVz7jrAK3FN-uSA)
 Come join our community here: https://msft.it/6019TnSKW
 
 
