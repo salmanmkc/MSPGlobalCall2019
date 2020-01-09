@@ -30,7 +30,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 |Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|
 
 ## Schedule for the 29th
-|Talk Name|Speaker(s)|GMT|IST|Links|
+|Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
 |--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
 | Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||
