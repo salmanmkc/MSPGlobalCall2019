@@ -12,7 +12,7 @@ Come join our community here: https://msft.it/6019TnSKW
 
 ## Schedule for the 28th
 |Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
 | How the MSP Program helped me | Yashraj Nayak|11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
 | Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[Version Control Systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|
@@ -31,7 +31,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 
 ## Schedule for the 29th
 |Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
 | Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
