@@ -11,7 +11,7 @@ Come join our community here: https://msft.it/6019TnSKW
 ![I'll put an image here :D - Salman](README_Images/updatedpictures.png)
 
 ## Schedule for the 28th
-|Talk Name|Speaker(s)|GMT|IST|Links|
+|Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
 |--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
 | How the MSP Program helped me | Yashraj Nayak|11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
