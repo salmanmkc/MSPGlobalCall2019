@@ -11,27 +11,26 @@ Come join our community here: https://msft.it/6019TnSKW
 ![I'll put an image here :D - Salman](README_Images/updatedpictures.png)
 
 ## Schedule for the 28th
-|Talk Name|Speaker(s)|GMT|IST|Links|
-|--|--|--|--|--|
-| Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
-| How the MSP Program helped me | Yashraj Nayak|11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|
-| Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[Version Control Systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|
-|How to set up your own community and inspire others | CH Hanzaila |13:00|18:30|[CH's MSP Group](https://www.facebook.com/MSP.PAK/)|
-| C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
-| Introduction to Power Bi | Ayan Keynan |14:20|19:50|[Power Bi](https://powerbi.microsoft.com/en-us/)|
-| Theory of Machine Learning | Vedant Bahel |15:00|20:30||
+|Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
+|--|--|--|--|--|--|
+| Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=26m26s|
+| How the MSP Program helped me | Yashraj Nayak|11:40|17:10|[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=40m25s|
+| Version Control Systems and Open Source | Syed Farhan Ahmad |12:20|17:50|[Version Control Systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=1h24m0s|
+|How to set up your own community and inspire others | CH Hanzaila |13:00|18:30|[CH's MSP Group](https://www.facebook.com/MSP.PAK/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=2h28m44s|
+| C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=2h47m00s|
+| Theory of Machine Learning | Vedant Bahel |15:00|20:30||https://www.youtube.com/watch?v=5rrDKQSce_k&t=4h08m00s|
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
-|Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|
-|Questions and Answers|Salman Chishti, Dawuda Iddrisu and Sabiha Shaik|17:05|22:35||
-Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15|
-|Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
-|Introduction to Power Platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|
-|Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|
-|Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|
+|Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=5h14m14s|
+| Introduction to Power Bi | Ayan Keynan & Sabiha Shaik |17:05|22:35|[Power Bi](https://powerbi.microsoft.com/en-us/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=6h19m00s|
+Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15||https://www.youtube.com/watch?v=5rrDKQSce_k&t=6h50m22s|
+|Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=7h33m14s|
+|Introduction to Power Platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=8h14m09s|
+|Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=9h004m00s|
+|Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=9h47m55s|
 
 ## Schedule for the 29th
-|Talk Name|Speaker(s)|GMT|IST|Links|
-|--|--|--|--|--|
+|Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
+|--|--|--|--|--|--|
 | Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
 | Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
