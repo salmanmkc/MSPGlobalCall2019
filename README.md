@@ -22,7 +22,7 @@ Come join our community here: https://msft.it/6019TnSKW
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|15:40|21:10|
 |Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=5h14m14s|
 | Introduction to Power Bi | Ayan Keynan & Sabiha Shaik |17:05|22:35|[Power Bi](https://powerbi.microsoft.com/en-us/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=6h19m00s|
-Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15|https://www.youtube.com/watch?v=5rrDKQSce_k&t=6h50m22s|
+Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15||https://www.youtube.com/watch?v=5rrDKQSce_k&t=6h50m22s|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=7h33m14s|
 |Introduction to Power Platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=8h14m09s|
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=9h004m00s|
