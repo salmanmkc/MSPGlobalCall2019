@@ -30,13 +30,13 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 ## Schedule for the 29th
 |Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
 |--|--|--|--|--|--|
-| Introduction | Salman Chishti and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|
-| Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||
-| Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|
-|How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||
-| C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|
-| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|
-| What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||
+| Introduction | Salman Chishti, Dawuda Iddrisu and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=38m55s|
+| Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||https://www.youtube.com/watch?v=IhawWayB-3k?t=1h7ms=35|
+| Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=1h50ms=18|
+|How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=2h44ms=44|
+| C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h32ms=18|
+| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h54ms=20|
+| What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||https://www.youtube.com/watch?v=IhawWayB-3k?t=4h52ms=25|
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||
 |Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
