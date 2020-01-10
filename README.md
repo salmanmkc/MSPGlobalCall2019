@@ -42,7 +42,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
 |Getting into Research|Vedant Bahel|17:50|23:20||
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
-|Building Chatbots for Enterprise Solution|Olumide Ogundare|19:00|0:30|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|
+|Building Chatbots for Enterprise Solution|Olumide Ogundare|19:00|0:30|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|https://youtu.be/IhawWayB-3k?t=31251|
 |Introduction to Cloud Computing|Shreya Prasad|19:30|1:00|[Microsoft Azure Cloud Computing Platform and Services](https://azure.microsoft.com/en-in/)|
 |Hacking Web Literacy|Ekansh Gupta|20:00|1:30||
 |VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|20:30|2:00|
