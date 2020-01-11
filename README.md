@@ -45,7 +45,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 |Building Chatbots for Enterprise Solution|Olumide Ogundare|19:00|0:30|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=8h29m15s|
 |Introduction to Cloud Computing|Shreya Prasad|19:30|1:00|[Microsoft Azure Cloud Computing Platform and Services](https://azure.microsoft.com/en-in/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=9h23m45s|
 |Hacking Web Literacy|Ekansh Gupta|20:00|1:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=9h54m50s|
-|VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|20:30|2:00|https://www.youtube.com/watch?v=IhawWayB-3k?t=10h30m54s|
+|VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|20:30|2:00||https://www.youtube.com/watch?v=IhawWayB-3k?t=10h30m54s|
 |A guide to a successful path in Software Development|Salman Chishti and Sabiha Shaik|21:00|2:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=11h15m00s|
 
 
