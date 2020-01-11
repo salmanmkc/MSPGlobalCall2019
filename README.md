@@ -49,6 +49,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 |A guide to a successful path in Software Development|Salman Chishti and Sabiha Shaik|21:00|2:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=11h15m00s|
 
 
+
 A call led by MSP Inspire, our initiative is to grow and expand the awareness of the MSP program. We are aiming to encorporate as many MSPs to talk as possible, as well as industry experts, MVPs, and reseachers. Right now we are in the planning stages, so if you would like to get involved drop an email: 13schishti@gmail.com
 
 ## The aims of this call
