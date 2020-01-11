@@ -34,19 +34,19 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 | Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||https://www.youtube.com/watch?v=IhawWayB-3k?t=1h7ms=35|
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=1h50ms=18|
 |How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=2h44ms=44|
-| C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h32ms=18|
-| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h54ms=20|
-| What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||https://www.youtube.com/watch?v=IhawWayB-3k?t=4h52ms=25|
-|Asp.net MVC|Dhruv Kinger|15:40|21:10||
-|Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|
-|Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|
-|Getting into Research|Vedant Bahel|17:50|23:20||
-|Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|
-|Building Chatbots for Enterprise Solution|Olumide Ogundare|19:00|0:30|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|
-|Introduction to Cloud Computing|Shreya Prasad|19:30|1:00|[Microsoft Azure Cloud Computing Platform and Services](https://azure.microsoft.com/en-in/)|
-|Hacking Web Literacy|Ekansh Gupta|20:00|1:30||
-|VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|20:30|2:00|
-|A guide to a successful path in Software Development|Salman Chishti and Sabiha Shaik|21:00|2:30||
+| C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h32m18s|
+| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h54m20s|
+| What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||https://www.youtube.com/watch?v=IhawWayB-3k?t=4h52m25s|
+|Asp.net MVC|Dhruv Kinger|15:40|21:10||https://www.youtube.com/watch?v=IhawWayB-3k?t=5h35m45s|
+|Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|https://www.youtube.com/watch?v=IhawWayB-3k?t=5h58ms=00|
+|Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=6h41m20s|
+|Getting into Research|Vedant Bahel|17:50|23:20||https://www.youtube.com/watch?v=IhawWayB-3k?t=7h21m22s|
+|Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|https://www.youtube.com/watch?v=IhawWayB-3k?t=8h1m15s|
+|Building Chatbots for Enterprise Solution|Olumide Ogundare|19:00|0:30|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=8h29m15s|
+|Introduction to Cloud Computing|Shreya Prasad|19:30|1:00|[Microsoft Azure Cloud Computing Platform and Services](https://azure.microsoft.com/en-in/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=9h23m45s|
+|Hacking Web Literacy|Ekansh Gupta|20:00|1:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=9h54m50s|
+|VR - Getting Started with development and mythbusters|Sukhman Sukhman Preet Singh Jawa|20:30|2:00|https://www.youtube.com/watch?v=IhawWayB-3k?t=10h30m54s|
+|A guide to a successful path in Software Development|Salman Chishti and Sabiha Shaik|21:00|2:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=11h15m00s|
 
 
 A call led by MSP Inspire, our initiative is to grow and expand the awareness of the MSP program. We are aiming to encorporate as many MSPs to talk as possible, as well as industry experts, MVPs, and reseachers. Right now we are in the planning stages, so if you would like to get involved drop an email: 13schishti@gmail.com
