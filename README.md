@@ -33,7 +33,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 | Introduction | Salman Chishti, Dawuda Iddrisu and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|http://bit.ly/MspVirtualCallIntro2|
 | Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||http://bit.ly/InspireFirstJob|
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|http://bit.ly/InspireAzureCompVision|
-|How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||http://bit.ly/InspireChatBotRASA|
+| How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||http://bit.ly/InspireChatBotRASA|
 | Introduction to Data Science | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h32m18s|
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h54m20s|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||https://www.youtube.com/watch?v=IhawWayB-3k?t=4h52m25s|
