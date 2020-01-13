@@ -21,7 +21,7 @@ Come join our community here: https://msft.it/6019TnSKW
 | Theory of Machine Learning | Vedant Bahel |15:00|20:30||http://bit.ly/InspireMachineLearningTheory|
 |Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|http://bit.ly/InspireVsOnlineLiveShare|
 | Introduction to Power Bi | Ayan Keynan & Sabiha Shaik |17:05|22:35|[Power Bi](https://powerbi.microsoft.com/en-us/)|http://bit.ly/InspirePowerBiIntro|
-Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15||http://bit.ly/InspireHackingTechnicalInterviews|
+Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15||http://bit.ly/InspireHackTechTests|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|http://bit.ly/InspireXamarinForms|
 |Introduction to Power Platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|http://bit.ly/InspirePowerPlatform|
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|http://bit.ly/InspirePowerAutomate|
