@@ -35,8 +35,8 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|http://bit.ly/InspireAzureCompVision|
 | How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||http://bit.ly/InspireChatBotRASA|
 | Introduction to Data Science | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|http://bit.ly/InspireDataSciIntro|
-| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h54m20s|
-| What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||https://www.youtube.com/watch?v=IhawWayB-3k?t=4h52m25s|
+| An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|http://bit.ly/InspireQuantumCompIntro|
+| What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||http://bit.ly/InspireMoreThanLectures|
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||https://www.youtube.com/watch?v=IhawWayB-3k?t=5h35m45s|
 |Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|https://www.youtube.com/watch?v=IhawWayB-3k?t=5h58ms=00|
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=6h41m20s|
