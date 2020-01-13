@@ -25,15 +25,15 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|http://bit.ly/InspireXamarinForms|
 |Introduction to Power Platform|Damilola Omiyera|19:05|0:35|[Power Platform](https://powerplatform.microsoft.com/en-gb/)|http://bit.ly/InspirePowerPlatform|
 |Power Automate: Getting started|Mohamed Sahbi|19:45|1:15|[Power Automate](https://flow.microsoft.com/en-us/)|http://bit.ly/InspirePowerAutomate|
-|Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=9h47m55s|
+|Deploying a virtual machine on Microsoft Azure|Eric Yu|20:25|1:55|[Azure Virtual Machines](https://azure.microsoft.com/en-gb/services/virtual-machines/)|http://bit.ly/InspireVirtualMachines|
 
 ## Schedule for the 29th
 |Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
 |--|--|--|--|--|--|
-| Introduction | Salman Chishti, Dawuda Iddrisu and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=38m55s|
-| Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||https://www.youtube.com/watch?v=IhawWayB-3k?t=1h7ms=35|
-| Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=1h50ms=18|
-|How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=2h44ms=44|
+| Introduction | Salman Chishti, Dawuda Iddrisu and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|http://bit.ly/MSPVirtualCallIntro2|
+| Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||http://bit.ly/InspireFirstDevJob|
+| Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|http://bit.ly/InspireAzureComputerVision|
+|How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||http://bit.ly/InspireChatbotRASA|
 | C#, object orientation and Xamarin | Naveen Lakhchaura |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h32m18s|
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=3h54m20s|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||https://www.youtube.com/watch?v=IhawWayB-3k?t=4h52m25s|
