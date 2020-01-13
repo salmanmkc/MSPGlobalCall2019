@@ -40,7 +40,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||https://www.youtube.com/watch?v=IhawWayB-3k?t=5h35m45s|
 |Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|http://bit.ly/InspireBlazor|
 |Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|http://bit.ly/InspireAzureKeras|
-|Getting into Research|Vedant Bahel|17:50|23:20|http://bit.ly/InspireResearchIntro|
+|Getting into Research|Vedant Bahel|17:50|23:20||http://bit.ly/InspireResearchIntro|
 |Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|http://bit.ly/InspireStudentpreneur|
 |Building Chatbots for Enterprise Solution|Olumide Ogundare|19:00|0:30|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|http://bit.ly/InspireChatBotQnA|
 |Introduction to Cloud Computing|Shreya Prasad|19:30|1:00|[Microsoft Azure Cloud Computing Platform and Services](https://azure.microsoft.com/en-in/)|http://bit.ly/InspireCloudComputingIntro2|
