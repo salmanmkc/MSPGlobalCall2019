@@ -38,10 +38,10 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 | An Introduction to Quantum Computing | Syed Farhan Ahmad |14:20|19:50|[Microsoft Quantum](https://www.microsoft.com/en-in/quantum/)|http://bit.ly/InspireQuantumCompIntro|
 | What you can do apart from attending lectures | Dawuda Iddrisu and Prashanth Konda|15:10|20:40||http://bit.ly/InspireMoreThanLectures|
 |Asp.net MVC|Dhruv Kinger|15:40|21:10||https://www.youtube.com/watch?v=IhawWayB-3k?t=5h35m45s|
-|Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|https://www.youtube.com/watch?v=IhawWayB-3k?t=5h58ms=00|
-|Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=6h41m20s|
-|Getting into Research|Vedant Bahel|17:50|23:20||https://www.youtube.com/watch?v=IhawWayB-3k?t=7h21m22s|
-|Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|https://www.youtube.com/watch?v=IhawWayB-3k?t=8h1m15s|
+|Creating reusable .NET Web Components with Blazor|Gomolemo Mohapi|16:20|21:50|[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)|http://bit.ly/InspireBlazor|
+|Build Deep Learning Models using Azure and Keras|Vijaya Gajanan Buddhavarapu|17:00|22:30|[Azure Machine Learning](https://azure.microsoft.com/en-gb/services/machine-learning/)|http://bit.ly/InspireAzureKeras|
+|Getting into Research|Vedant Bahel|17:50|23:20|http://bit.ly/InspireResearchIntro|
+|Hacks for Studentpreneur|Antony Diaz|18:30|00:00|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|http://bit.ly/InspireStudentpreneur|
 |Building Chatbots for Enterprise Solution|Olumide Ogundare|19:00|0:30|[Microsoft QnA Maker](https://azure.microsoft.com/en-gb/services/cognitive-services/qna-maker/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=8h29m15s|
 |Introduction to Cloud Computing|Shreya Prasad|19:30|1:00|[Microsoft Azure Cloud Computing Platform and Services](https://azure.microsoft.com/en-in/)|https://www.youtube.com/watch?v=IhawWayB-3k?t=9h23m45s|
 |Hacking Web Literacy|Ekansh Gupta|20:00|1:30||https://www.youtube.com/watch?v=IhawWayB-3k?t=9h54m50s|
