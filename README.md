@@ -30,7 +30,7 @@ Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrad
 ## Schedule for the 29th
 |Talk Name|Speaker(s)|GMT|IST|Links|Video Timestamp|
 |--|--|--|--|--|--|
-| Introduction | Salman Chishti, Dawuda Iddrisu and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|http://bit.ly/MSPVirtualCallIntro2|
+| Introduction | Salman Chishti, Dawuda Iddrisu and Sabiha Shaik |11:00|16:30|[MSP Program](https://studentpartners.microsoft.com/)|http://bit.ly/MspVirtualCallIntro2|
 | Rock your first job as a junior developer | Mohamed Sahbi|11:40|17:10||http://bit.ly/InspireFirstDevJob|
 | Azure cognitive service, custom vision | Damilola Omiyera|12:20|17:50|[Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)|http://bit.ly/InspireAzureComputerVision|
 |How to build a chatbot using RASA | Prasad Deshmukh |13:00|18:30||http://bit.ly/InspireChatbotRASA|
