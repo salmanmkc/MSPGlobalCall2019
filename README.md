@@ -19,7 +19,7 @@ Come join our community here: https://msft.it/6019TnSKW
 |How to set up your own community and inspire others | CH Hanzaila |13:00|18:30|[CH's MSP Group](https://www.facebook.com/MSP.PAK/)|http://bit.ly/InspireCommunityBuilding|
 | C#, object orientation and Xamarin | Dhia Snoussi |13:40|19:10|[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [Xamarin](https://dotnet.microsoft.com/apps/xamarin)|http://bit.ly/InspireXamarinCSharpObj|
 | Theory of Machine Learning | Vedant Bahel |15:00|20:30||http://bit.ly/InspireMachineLearningTheory|
-|Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|https://www.youtube.com/watch?v=5rrDKQSce_k&t=5h14m14s|
+|Collaboration with Live Share|Ganesh Tiwari|16:20|21:50|[Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)|http://bit.ly/InspireVsOnlineLiveShare|
 | Introduction to Power Bi | Ayan Keynan & Sabiha Shaik |17:05|22:35|[Power Bi](https://powerbi.microsoft.com/en-us/)|http://bit.ly/InspirePowerBiIntro|
 Algorithm Building/Hack the Technical Interview|Victoria Carolline Correa Andrade|17:45|23:15||http://bit.ly/InspireHackingTechnicalInterviews|
 |Using Xamarin Forms to create mobile apps|Dan Kyungu|18:25|23:55|[Xamarin Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms)|http://bit.ly/InspireXamarinForms|
