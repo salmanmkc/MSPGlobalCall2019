@@ -5,7 +5,7 @@
 >**Note**: Not to be confused with the 2020 call in February
 
 Stream has concluded and archives are watchable here: [YouTube Channel](https://www.youtube.com/channel/UCokbgC90PVz7jrAK3FN-uSA)
-Come join our community here: https://msft.it/6019TnSKW
+Come join our community here: https://aka.ms/MSPInspireChat
 
 
 ![I'll put an image here :D - Salman](README_Images/updatedpictures.png)
